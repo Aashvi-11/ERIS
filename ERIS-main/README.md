@@ -1,3 +1,4 @@
+(DL hackathon)
 # ERIS — Emotion-Aware Robotic Interaction System
 
 Real-time multimodal emotion recognition that combines **speech** and **facial expression** analysis with an empathetic LLM companion and an emotion-driven quadruped robot.
